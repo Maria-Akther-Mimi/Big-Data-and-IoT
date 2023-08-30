@@ -1,7 +1,7 @@
 # Big-Data-and-IoT-Lab
 
 ## Document:
-### link => <a href="https://github.com/Bithi-MBSTU/Machine-Learning-Practice-Examples"> Click here </a>
+### <a href="https://github.com/Bithi-MBSTU/Machine-Learning-Practice-Examples"> Click here </a>
 
 
 ## Class Tasks:
