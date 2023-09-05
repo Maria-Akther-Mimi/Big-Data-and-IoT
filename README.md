@@ -12,7 +12,7 @@
 - Class 5-  Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/Data%20Preprocessing_Class%205.ipynb"> Click here </a>
 - Class 6-
   - Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/FS%2CPCA%2CRegularization_Class%206.ipynb"> Click here for 1 </a>
-  - Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/FS%2CPCA%2CRegularization_Class%206.ipynb"> Click here for 2 </a>
+  - Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/Vectorizer%2CCross%20Validation_Class%206.ipynb"> Click here for 2 </a>
 
 
 
