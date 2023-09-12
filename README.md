@@ -14,6 +14,10 @@
   - Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/FS%2CPCA%2CRegularization_Class%206.ipynb"> Click here for 1 </a>
   - Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/Vectorizer%2CCross%20Validation_Class%206.ipynb"> Click here for 2 </a>
 
+- Class 7-  Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/Tensorqs_tutorial_Class%207.ipynb"> Click here </a>
+
+
+
 
 
 
