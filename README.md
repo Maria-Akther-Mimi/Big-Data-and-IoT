@@ -15,7 +15,7 @@
   - Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/Vectorizer%2CCross%20Validation_Class%206.ipynb"> Click here for 2 </a>
 
 - Class 7-  Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/Tensorqs_tutorial_Class%207.ipynb"> Click here </a>
-- Class 8-  Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/Tensorqs_tutorial_Class%207.ipynb"> Click here </a>
+- Class 8-  Link => <a href="https://github.com/Maria-Akther-Mimi/Big-Data-and-IoT-Lab/blob/main/201-15-13858_%20Big_Data_and_IoT_Lab_8_LeNet_5_Architecture.ipynb"> Click here </a>
 
 
 
